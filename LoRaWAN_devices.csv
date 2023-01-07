@@ -1,0 +1,17 @@
+Tx_Power,Range,RSSI,Vendor,Cost,Device_Category,Rating
+14,2,-130,Heltec,30,Node,85
+16,5,-140,Heltec,49,Node,67
+14.5,3,-138,TTN,35,Node,82
+25,10,-160,Milesight,300,Gateway,95
+22,7,-157,Dragino,149,Gateway,90
+14.5,3.5,-132,TTN,40,Node,75
+16,5,-137,Cube Cell,60,Node,60
+25,12,-162,Dragino,450,Gateway,80
+25,10,-148,Cube Cell,400,Gateway,60
+16,5,-135,Dragino,65,Node,70
+14,2.5,-125,Dragino,35,Node,80
+15,3,-138,Milesight,50,Node,75
+14,2.1,-128,Cube Cell,40,Node,73
+16,3.5,-138,Milesight,50,Node,68
+14.5,3,-132,Dragino,45,Node,70
+25,11,-150,Dragino,350,Gateway,82
